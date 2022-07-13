@@ -1,1 +1,1 @@
-#Simple GUI using Pythons Tkinter library and SQLite 
+# Simple GUI using Pythons Tkinter library and SQLite 
